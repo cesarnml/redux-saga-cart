@@ -1,2 +1,2 @@
-export { CheckoutStatusViewDisplay } from './CheckoutStatusViewDisplay';
-export { CheckoutStatusViewContainer } from './CheckoutStatusViewContainer';
+export { CheckoutStatusViewDisplay } from './CheckoutStatusViewDisplay'
+export { CheckoutStatusViewContainer } from './CheckoutStatusViewContainer'

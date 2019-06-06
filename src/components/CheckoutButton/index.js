@@ -1,2 +1,2 @@
-export { CheckoutButtonDisplay } from './CheckoutButtonDisplay';
-export { CheckoutButtonContainer } from './CheckoutButtonContainer';
+export { CheckoutButtonDisplay } from './CheckoutButtonDisplay'
+export { CheckoutButtonContainer } from './CheckoutButtonContainer'

@@ -1,2 +1,2 @@
-export { MainDisplay } from './MainDisplay';
-export { MainContainer } from './MainContainer';
+export { MainDisplay } from './MainDisplay'
+export { MainContainer } from './MainContainer'

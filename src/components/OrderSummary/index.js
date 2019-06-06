@@ -1,2 +1,2 @@
-export { OrderSummaryDisplay } from './OrderSummaryDisplay';
-export { OrderSummaryContainer } from './OrderSummaryContainer';
+export { OrderSummaryDisplay } from './OrderSummaryDisplay'
+export { OrderSummaryContainer } from './OrderSummaryContainer'

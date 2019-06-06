@@ -1,2 +1,2 @@
-export { UserInfoDisplay } from './UserInfoDisplay';
-export { UserInfoContainer } from './UserInfoContainer';
+export { UserInfoDisplay } from './UserInfoDisplay'
+export { UserInfoContainer } from './UserInfoContainer'

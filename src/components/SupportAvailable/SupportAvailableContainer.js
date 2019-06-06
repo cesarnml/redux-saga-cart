@@ -1,26 +1,18 @@
 import { connect } from 'react-redux'
-import {
-    SupportAvailableDisplay
-} from './SupportAvailableDisplay';
+import { SupportAvailableDisplay } from './SupportAvailableDisplay'
 
-import {
-    
-} from './../../actions'
+import {} from './../../actions'
 
-import {
-    customerServiceAvailabilitySelector
-} from './../../selectors'
+import { customerServiceAvailabilitySelector } from './../../selectors'
 
-const mapStateToProps = (state) => {
-    return {
-        isAvailable:customerServiceAvailabilitySelector(state)
-    }
-};
-const mapDispatchToProps = (dispatch) => ({
-    
-});
+const mapStateToProps = state => {
+  return {
+    isAvailable: customerServiceAvailabilitySelector(state),
+  }
+}
+const mapDispatchToProps = dispatch => ({})
 
 export const SupportAvailableContainer = connect(
-    mapStateToProps,
-    mapDispatchToProps
-)(SupportAvailableDisplay);
+  mapStateToProps,
+  mapDispatchToProps
+)(SupportAvailableDisplay)

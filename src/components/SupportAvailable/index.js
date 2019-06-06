@@ -1,2 +1,2 @@
-export { SupportAvailableDisplay } from './SupportAvailableDisplay';
-export { SupportAvailableContainer } from './SupportAvailableContainer';
+export { SupportAvailableDisplay } from './SupportAvailableDisplay'
+export { SupportAvailableContainer } from './SupportAvailableContainer'

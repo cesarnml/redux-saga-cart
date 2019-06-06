@@ -1,2 +1,2 @@
-export { CartManageViewDisplay } from './CartManageViewDisplay';
-export { CartManageViewContainer } from './CartManageViewContainer';
+export { CartManageViewDisplay } from './CartManageViewDisplay'
+export { CartManageViewContainer } from './CartManageViewContainer'
